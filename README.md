@@ -74,7 +74,7 @@ Podemos ver el bucle de ejecución diseñado en el siguiente diagrama:
 
 A continuación queda un vídeo en el que podemos ver el código empleado para la realización de la práctica en funcionamiento, en el cual se muestra la efectividad de la imlementación hecha para todo aquello explicado previamente (es meramente visual, carece de explicaciones):
 
-* [**PLAY ME**](https://drive.google.com/file/d/1GvdBx9RgUvkxJeUrmiy5UgbD1E48CPPa/view?usp=sharing)
+* [**PLAY ME**](https://youtu.be/gfjfa3iVQa4)
 
 ---
 
